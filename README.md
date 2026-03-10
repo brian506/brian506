@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brian506&show_icons=true&theme=dark" alt="github stats" />
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brian506&show_icons=true&theme=dark)
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=brian506)](https://solved.ac/brian506)

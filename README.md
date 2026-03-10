@@ -1,4 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brian506&show_icons=true&theme=dark)
+![GitHub Streak](https://streak-stats.demolab.com/?user=brian506&theme=dark)
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=brian506)](https://solved.ac/brian506)
